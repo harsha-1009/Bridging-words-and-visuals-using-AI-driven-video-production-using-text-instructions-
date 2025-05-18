@@ -6,23 +6,23 @@ This project demonstrates how to generate a short video using an input image and
 
 Steps to Execute
 
-Download and Upload Dataset
+1. Download and Upload Dataset
 
 Download the MSR-VTT dataset from https://www.kaggle.com/datasets/vishnutheepb/msrvtt
 
 Upload the downloaded dataset to your Google Drive.
 
-Prepare the Dataset
+2. Prepare the Dataset
 
 Open the notebook DatasetPreparation.ipynb in Google Colab.
 
 Run the notebook to set up the dataset properly inside your Google Drive.
 
-Upload Image Input
+3. Upload Image Input
 
 Upload your input image into the msr-vtt folder in your Google Drive.
 
-Generate Video
+4. Generate Video
 
 Open the VideoGenUsingImageText.ipynb notebook in Google Colab.
 
@@ -32,6 +32,6 @@ Modify the text prompt in the notebook to match the description of the uploaded 
 
 Run the notebook to generate the video.
 
-Access the Output
+5. Access the Output
 
 The generated video will be saved in your Google Drive as generated_video.mp4.
