@@ -20,11 +20,11 @@ Run the notebook to set up the dataset properly inside your Google Drive.
 
 3. Upload Image Input
 
-Upload your input image into the msr-vtt folder in your Google Drive.
+Run the image upload cell in the Video Geneneration Using Image Text.ipynb notebook. A file chooser dialog will appear, allowing you to upload your input image directly from your local machine.
 
 4. Generate Video
 
-Open the VideoGenUsingImageText.ipynb notebook in Google Colab.
+Open the Video Geneneration Using Image Text.ipynb notebook in Google Colab.
 
 Connect to a high-performance GPU (preferably A100).
 
